@@ -34,9 +34,9 @@ layout_single_header:
 
 ### Mobile wallets
 
-**Android** > [Google Play Store](https://play.google.com/store/apps/details?id=com.theqrl)
+**Android** > [Google Play Store](https://play.google.com/store/apps/details?id=com.volt.qrlmobile)
 
-**iOS** > [Apple App Store](https://itunes.apple.com/us/app/qrl-wallet/id1458620542?ls=1&mt=8)
+**iOS** > [Apple App Store](https://apps.apple.com/us/app/qrl-mobile/id6448219494)
 
 - - -
 
